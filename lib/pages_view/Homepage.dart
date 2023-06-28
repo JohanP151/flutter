@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:prueba_dos/pages/HomeAppBar.dart';
-import 'package:prueba_dos/widgets/CategoriasWidget.dart';
+//import 'package:prueba_dos/pages_/CategoriasWidget.dart';
+import 'package:prueba_dos/pages_view/CategoriasWidget.dart';
+//import 'package:prueba_dos/widgets/CategoriasWidget.dart';
 
 class HomePage extends StatelessWidget {
   @override
